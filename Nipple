@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "NippleBOT",
       language: "czech",
-      chatLink: "https://gist.githubusercontent.com/Lem-on/fba90474f7b5ddf49909/raw/ebc0c9978a7b1e4aa0b48aad4b6771bc23cc7401/czech.json",
+      chatLink: "https://rawgit.com/Lem-on/Nipplebot/master/czech.json",
       scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       autowoot: true,
